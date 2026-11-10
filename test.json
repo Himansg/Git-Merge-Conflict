@@ -1,0 +1,7 @@
+{
+  "name": "Himanshu",
+  "age": 21,
+  "course": "BTech",
+  "skills": ["Git", "GitHub", "Linux", "DevOps"],
+  "isStudent": true
+}
