@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "Himanshu",
   "age": 20,
+=======
+  "name": "Bhushan",
+  "age": 21,
+>>>>>>> mama
   "course": "BTech",
   "skills": ["Git", "GitHub", "Linux", "DevOps"],
   "isStudent": true
